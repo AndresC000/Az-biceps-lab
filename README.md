@@ -1,2 +1,1 @@
-# Az-biceps-lab
-LAB1 az-biceps
+param vmName string = "Servidor01"
